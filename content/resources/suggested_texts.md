@@ -4,6 +4,8 @@ description: List of optional readings on cell and molecular neurobiology.
 file: /courses/9-013j-cell-and-molecular-neurobiology-spring-2008/dac00d51814f6e87bac46fe99fa9d748_suggested_texts.pdf
 file_size: 23901
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

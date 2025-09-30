@@ -35,6 +35,7 @@
     "website": "9-013j-cell-and-molecular-neurobiology-spring-2008"
   },
   "course_title": "Cell and Molecular Neurobiology",
+  "hide_download": true,
   "course_description": "This course explores the major areas of cellular and molecular neurobiology, including excitable cells and membranes, ion channels and receptors, synaptic transmission, cell-type determination, axon guidance, neuronal cell biology, neurotrophin signaling and cell survival, synapse formation and neural plasticity. Material includes lectures and exams, and involves presentation and discussion of primary literature. It focuses on major concepts and recent advances in experimental neuroscience.\n",
   "department_numbers": [
     "9",
@@ -46,6 +47,7 @@
     "content": "4f8673d9-7b13-cebf-72a8-3e7a174e2f8f",
     "website": "9-013j-cell-and-molecular-neurobiology-spring-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Presentation Assignments"
   ],
