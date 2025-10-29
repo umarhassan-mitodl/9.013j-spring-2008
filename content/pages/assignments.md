@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on presentation assignments for the
   course, including a list of topics and papers used for each session.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

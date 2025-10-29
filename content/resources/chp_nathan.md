@@ -7,8 +7,6 @@ description: "Image 1. Ion channel model.\r\nImage 2. Cultured hippocampal neuro
 file: /courses/9-013j-cell-and-molecular-neurobiology-spring-2008/0b768dcfec1de310d121dae008df3ffc_chp_nathan.gif
 file_size: 180164
 file_type: image/gif
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
